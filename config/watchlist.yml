@@ -1,0 +1,16 @@
+# 关注列表：在手机上编辑这个文件即可增删项目
+# 格式：每项写 owner（作者/组织）和 name（仓库名）
+# 可选 note：给人看的备注，不影响检测
+
+repos:
+  - owner: ollama
+    name: ollama
+    note: 本地大模型运行工具
+
+  - owner: openai
+    name: openai-python
+    note: OpenAI 官方 Python SDK
+
+  - owner: microsoft
+    name: vscode
+    note: Visual Studio Code 编辑器
