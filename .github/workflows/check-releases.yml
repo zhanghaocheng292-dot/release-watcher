@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: write
+  # GITHUB_TOKEN needs this or GitHub Models calls are denied and the script falls back.
+  models: read
 
 concurrency:
   group: check-releases
