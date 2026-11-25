@@ -15,8 +15,8 @@
 5. 由 Actions 机器人自动提交推送
 
 <!-- LATEST_REPORT_START -->
-**最新报告**：[reports/2026-11-24.md](reports/2026-11-24.md)  
-本次：ollama/ollama v0.40.18, openai/openai-python v3.58.0
+**最新报告**：[reports/2026-11-25.md](reports/2026-11-25.md)  
+本次：openai/openai-python v3.59.0
 <!-- LATEST_REPORT_END -->
 
 ---
