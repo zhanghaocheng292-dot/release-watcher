@@ -3,18 +3,18 @@
     "tag": "v0.40.18",
     "published_at": "2026-11-24T04:18:13Z",
     "html_url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
-    "checked_at": "2026-11-25T09:34:13Z"
+    "checked_at": "2026-11-26T09:10:48Z"
   },
   "openai/openai-python": {
-    "tag": "v3.59.0",
-    "published_at": "2026-11-24T19:18:59Z",
-    "html_url": "https://github.com/openai/openai-python/releases/tag/v3.59.0",
-    "checked_at": "2026-11-25T09:34:13Z"
+    "tag": "v3.60.0",
+    "published_at": "2026-11-26T07:09:55Z",
+    "html_url": "https://github.com/openai/openai-python/releases/tag/v3.60.0",
+    "checked_at": "2026-11-26T09:10:48Z"
   },
   "microsoft/vscode": {
-    "tag": "1.147.0",
-    "published_at": "2026-11-18T09:45:23Z",
-    "html_url": "https://github.com/microsoft/vscode/releases/tag/1.147.0",
-    "checked_at": "2026-11-25T09:34:14Z"
+    "tag": "1.148.0",
+    "published_at": "2026-11-25T09:44:02Z",
+    "html_url": "https://github.com/microsoft/vscode/releases/tag/1.148.0",
+    "checked_at": "2026-11-26T09:10:49Z"
   }
 }
