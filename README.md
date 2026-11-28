@@ -15,8 +15,8 @@
 5. 由 Actions 机器人自动提交推送
 
 <!-- LATEST_REPORT_START -->
-**最新报告**：[reports/2026-11-27.md](reports/2026-11-27.md)  
-本次：ollama/ollama v0.40.19-rc0
+**最新报告**：[reports/2026-11-28.md](reports/2026-11-28.md)  
+本次：ollama/ollama v0.40.10, ollama/ollama v0.40.11, ollama/ollama v0.40.12, ollama/ollama v0.40.13, ollama/ollama v0.40.14, ollama/ollama v0.40.15, ollama/ollama v0.40.16, ollama/ollama v0.40.17, ollama/ollama v0.40.18, ollama/ollama v0.40.19
 <!-- LATEST_REPORT_END -->
 
 ---
